@@ -1,0 +1,1 @@
+# embed-newefir-adlk-embed.js
